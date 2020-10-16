@@ -24,8 +24,6 @@
     .domain(currentData.map(d => d[0]))
     .range([height - margin.bottom, margin.top])
     .paddingInner(0.1);
-
-  //add x axis
 </script>
 
 <style>
